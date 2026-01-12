@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Well Wishing Word(Inori Minase LIVE TOUR 2021 HELLO HORIZON)",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2026-01-12T12:29:00.931574Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Well Wishing Word",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_Well_Wishing_Word_水瀬いのり.txt"
+    }
+  ]
+}
